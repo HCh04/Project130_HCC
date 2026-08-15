@@ -1,0 +1,9 @@
+TCGA-LIHC RNA-SEQ QC
+Experiment: LIHC_RNASeq2Gene-20160128
+Genes: 20501
+Primary tumour samples used (01): 371
+Normal samples excluded (11): 50
+Recurrent tumour samples excluded (02): 2
+Expression unit: RSEM TPM (curatedTCGAData RNASeq2Gene documentation)
+Median expression column sum (diagnostic): 45552307.67
+Column sums near 1,000,000: FALSE
