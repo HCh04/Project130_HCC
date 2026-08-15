@@ -1,0 +1,16 @@
+PROJECT 130 INTEGRATION QC
+Long mutation observations read: 33781
+Mutation rows before integration: 33645
+Mutation rows after integration: 33645
+Unique mutation genes: 12641
+Expression genes: 20501
+All expression samples: 371
+Primary tumour samples used (code 01): 371
+Normal samples excluded (code 11): 0
+Other samples excluded: 0
+Expression unit: RSEM TPM (curatedTCGAData RNASeq2Gene documentation)
+Median expression column sum (diagnostic): 45552307.67
+Column sums near 1,000,000: FALSE
+Mutation rows matched: 30608 (90.97%)
+Unmatched mutation gene symbols: 1264
+Missing GeneLevelTPM: 9.03%
