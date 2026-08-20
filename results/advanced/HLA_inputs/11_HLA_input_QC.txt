@@ -1,0 +1,8 @@
+PROJECT 130 HLA INPUT QC
+HLA-I 9-mer records: 360
+HLA-II 15-mer records: 600
+Mutant records: 480
+Wild-type records: 480
+HLA-I alleles: HLA-A*01:01, HLA-A*02:01, HLA-A*03:01
+HLA-II alleles: HLA-DRB1*01:01, HLA-DRB1*04:01
+Analysis design: fixed HLA panel; cohort-level exploratory analysis
