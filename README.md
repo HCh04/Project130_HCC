@@ -68,7 +68,6 @@ Rscript scripts/06_select_missense_mutations.R
 
 # 7. Extract local VEP transcript and protein annotations
 Rscript scripts/08_extract_local_VEP_annotations.R
-# (Note: Step 07 was omitted from the numbering scheme as GDC MAF files already contain local VEP trasncript annotations, which were extracted directly in script 08.)
 
 # 8. Download and validate canonical UniProt protein sequences
 Rscript scripts/09_download_and_validate_proteins.R
@@ -94,5 +93,6 @@ Rscript scripts/15_prepare_immunogenicity_input.R
 # 15. Predict Class I TCR immunogenicity via IEDB NextGen API
 Rscript scripts/16_run_IEDB_immunogenicity.R
 
+(Note: Step 07 was omitted from the numbering scheme as GDC MAF files already contain local VEP trasncript annotations, which were extracted directly in script 08.)
 # 16. Build final master neoantigen prediction tables
 Rscript scripts/17_build_final_neoantigen_table.R
