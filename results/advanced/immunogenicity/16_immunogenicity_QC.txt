@@ -1,0 +1,9 @@
+PROJECT 130 IEDB IMMUNOGENICITY QC
+Unique mutant 9-mers submitted: 180
+Manifest records: 180
+Records with immunogenicity score: 180
+Missing immunogenicity scores: 0
+Tool: IEDB Next-Generation Class I Immunogenicity
+Masking: custom positions 1, 2, and 9 (equivalent to default for 9-mers)
+Results URI: https://api-nextgen-tools.iedb.org/api/v1/results/5bc7ac6b-3ecb-484a-89ae-13a4e8bf03b7
+Output: results/advanced/immunogenicity/16_IEDB_immunogenicity_results.tsv
