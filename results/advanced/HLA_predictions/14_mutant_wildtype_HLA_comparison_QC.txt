@@ -1,0 +1,11 @@
+PROJECT 130 MUTANT-WILDTYPE HLA COMPARISON QC
+Input prediction rows: 2280
+Paired comparison rows: 1140
+HLA-I comparison rows: 540
+HLA-II comparison rows: 600
+Mutant predicted binders: 60
+Mutant-specific predicted binders: 28
+Mutant binders with improved affinity: 53
+DeltaAffinity_nM = WildTypeAffinity_nM - MutantAffinity_nM
+AffinityFoldChange_WT_over_Mutant > 1 indicates stronger mutant binding
+Output: results/advanced/HLA_predictions/14_mutant_wildtype_HLA_comparison.tsv

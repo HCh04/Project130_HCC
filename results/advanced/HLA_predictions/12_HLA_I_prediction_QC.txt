@@ -1,0 +1,10 @@
+PROJECT 130 HLA-I PREDICTION QC
+Manifest records: 360
+Unique peptide sequences submitted: 265
+HLA-I alleles: HLA-A*01:01, HLA-A*02:01, HLA-A*03:01
+Expected merged rows: 1080
+Rows with predictions: 1080
+Prediction method: recommended_binding
+Binder thresholds: strong <= 50 nM; weak <= 500 nM; non-binder > 500 nM
+Raw output: results/advanced/HLA_predictions/12_HLA_I_predictions_raw.tsv
+Merged output: results/advanced/HLA_predictions/12_HLA_I_predictions.tsv

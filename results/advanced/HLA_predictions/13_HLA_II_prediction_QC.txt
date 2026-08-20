@@ -1,0 +1,10 @@
+PROJECT 130 HLA-II PREDICTION QC
+Manifest records: 600
+Unique peptide sequences submitted: 433
+HLA-II alleles: HLA-DRB1*01:01, HLA-DRB1*04:01
+Expected merged rows: 1200
+Rows with predictions: 1200
+Prediction method: recommended_binding
+Binder thresholds: strong rank <= 2%; weak rank <= 10%; non-binder rank > 10%
+Raw output: results/advanced/HLA_predictions/13_HLA_II_predictions_raw.tsv
+Merged output: results/advanced/HLA_predictions/13_HLA_II_predictions.tsv
