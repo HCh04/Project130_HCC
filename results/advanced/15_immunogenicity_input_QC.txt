@@ -1,0 +1,7 @@
+PROJECT 130 IMMUNOGENICITY INPUT QC
+Mutant 9-mer records: 180
+Unique mutant 9-mer sequences submitted: 180
+All sequences length 9: TRUE
+Prediction target: IEDB Class I Immunogenicity
+Masking: default (positions 1, 2, and C-terminus)
+Input: results/advanced/immunogenicity/15_mutant_9mer_immunogenicity_input.txt
